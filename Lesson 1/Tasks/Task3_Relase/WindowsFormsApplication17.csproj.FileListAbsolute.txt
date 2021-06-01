@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Release\WindowsFormsApplication17.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Release\WindowsFormsApplication17.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Release\WindowsFormsApplication17.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Release\WindowsFormsApplication17.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Release\WindowsFormsApplication17.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Release\WindowsFormsApplication17.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Release\WindowsFormsApplication17.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Release\WindowsFormsApplication17.pdb

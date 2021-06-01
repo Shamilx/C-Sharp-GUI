@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Release\WindowsFormsApplication15.pdb
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.exe
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Release\WindowsFormsApplication15.pdb
