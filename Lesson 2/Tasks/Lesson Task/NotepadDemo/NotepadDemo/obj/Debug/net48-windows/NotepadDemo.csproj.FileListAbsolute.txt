@@ -1,0 +1,11 @@
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\bin\Debug\net48-windows\NotepadDemo.exe.config
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\bin\Debug\net48-windows\NotepadDemo.exe
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\bin\Debug\net48-windows\NotepadDemo.pdb
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.csproj.AssemblyReference.cache
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.AssemblyInfoInputs.cache
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.AssemblyInfo.cs
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.csproj.CoreCompileInputs.cache
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.exe
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.pdb
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.Form1.resources
+D:\CsharpWinforms\NotepadDemo\NotepadDemo\obj\Debug\net48-windows\NotepadDemo.csproj.GenerateResource.cache

@@ -1,0 +1,11 @@
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\bin\Debug\net48-windows\WinFormsApp5.exe.config
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\bin\Debug\net48-windows\WinFormsApp5.exe
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\bin\Debug\net48-windows\WinFormsApp5.pdb
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.csproj.AssemblyReference.cache
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.AssemblyInfoInputs.cache
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.AssemblyInfo.cs
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.csproj.CoreCompileInputs.cache
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.exe
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.pdb
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.Form1.resources
+D:\CsharpWinforms\WinFormsApp5\WinFormsApp5\obj\Debug\net48-windows\WinFormsApp5.csproj.GenerateResource.cache

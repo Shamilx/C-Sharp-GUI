@@ -1,0 +1,36 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\CsharpWinforms\\NotepadDemo\\NotepadDemo\\NotepadDemo.csproj",
+    "projectName": "NotepadDemo",
+    "projectPath": "D:\\CsharpWinforms\\NotepadDemo\\NotepadDemo\\NotepadDemo.csproj",
+    "outputPath": "D:\\CsharpWinforms\\NotepadDemo\\NotepadDemo\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net48-windows"
+    ],
+    "frameworks": {
+      "net48": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}
