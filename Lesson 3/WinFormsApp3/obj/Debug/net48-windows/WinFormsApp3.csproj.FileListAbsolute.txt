@@ -1,0 +1,12 @@
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\bin\Debug\net48-windows\WinFormsApp3.exe.config
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\bin\Debug\net48-windows\WinFormsApp3.exe
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\bin\Debug\net48-windows\WinFormsApp3.pdb
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.AssemblyInfo.cs
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.exe
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.pdb
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.Form1.resources
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\Csharpwinformss\WinFormsApp3\WinFormsApp3\obj\Debug\net48-windows\WinFormsApp3.Form2.resources
